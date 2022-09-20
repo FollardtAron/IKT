@@ -6,3 +6,4 @@ https://hu.wikipedia.org/wiki/Agilis_szoftverfejleszt%C3%A9s
 
 [AGILIS MÓDSZERTAN.pptx](https://github.com/FollardtAron/PPT/files/9574331/AGILIS.MODSZERTAN.pptx) 09.15
 
+[AGILIS.MODSZERTAN.pptx](https://github.com/FollardtAron/PPT/files/9606593/AGILIS.MODSZERTAN.pptx) 09.20
