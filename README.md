@@ -13,3 +13,5 @@ https://hu.wikipedia.org/wiki/Agilis_szoftverfejleszt%C3%A9s
 [Konfliktus.docx](https://github.com/FollardtAron/PPT/files/9754144/Konfliktus.docx) 10.11
 
 [Konfliktus.docx](https://github.com/FollardtAron/IKT/files/9762627/Konfliktus.docx) 10.12
+
+[Konfliktus.docx](https://github.com/FollardtAron/IKT/files/9775601/Konfliktus.docx) 10.13
